@@ -4,7 +4,7 @@
 
 ---
 
-![](https://lab.ssafy.com/s04-final/s04p31c106/raw/backend/readme.assets/Untitled.png)
+![](/readme.assets/Untitled.png)
 
 - 반려동물 양육가구는 늘어가는 추세
 - 그 중 제일 많은 수를 차지하는 강아지를 위한, 강아지 입장에서 쓸 수 있는 서비스를 만들고자 함
